@@ -1,5 +1,5 @@
 #include <iostream>
-//author: wangrui
+//author: Mr.W
 //date:24/7/20
 void out();
 int main()
