@@ -1,6 +1,10 @@
 #include <iostream>
-int main()
+auto print=[]()
 {
     std::cout<<"hello word";
+};
+int main()
+{
+    print();
     return 0;
 }
