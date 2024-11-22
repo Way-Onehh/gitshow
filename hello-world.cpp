@@ -1,4 +1,5 @@
-/* author:wr */ 
+/* author:wr */  
+/* create time nov 23 */ 
 #include <iostream>
 auto print=[]()
 {
