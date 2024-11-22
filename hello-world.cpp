@@ -1,3 +1,4 @@
+/* author:wr */ 
 #include <iostream>
 int main()
 {
