@@ -16,7 +16,7 @@ int main()
     std::cin>>b>>c;
     int a = add(b,c);
     char buff[10];
-    sprintf(buff,"%d",a);
+    sprintf(buff,"%d\n",a);
     print(buff);
     return 0;
 }

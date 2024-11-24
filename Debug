@@ -1,0 +1,4 @@
+echo file $1 > .gdbinit
+echo b main  >> .gdbinit
+echo run     >> .gdbinit
+gdb --tui
