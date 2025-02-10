@@ -1,0 +1,3 @@
+add_executable(test_AI_Agent test_AI_Agent.cpp)
+target_include_directories(test_AI_Agent PUBLIC source)
+target_link_libraries(test_AI_Agent AI_Agent)
